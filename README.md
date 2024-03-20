@@ -1,0 +1,1 @@
+Está beleza, eu sei que é um grid simples, porém aqui eu não uso javascript para fazer uma transição do próprio grid e classe que está dentro dele. Graças ao pseudoelemento :has. Podemos finalmente selecionar um pai com base nos filhos que ele contém – sem necessidade de JavaScript! E estou fazendo de barra lateral da propriedade  grid-template-columns.
